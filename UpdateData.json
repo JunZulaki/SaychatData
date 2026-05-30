@@ -1,9 +1,9 @@
 {
-  "version": "v3.3",
-  "vernum": "33000",
-  "url": "https://www.bilibili.com/video/BV1GJ411x7h7",
+  "version": "v3.3.2",
+  "vernum": "3320",
+  "url": "",
   "urlps": "",
-  "UpdateTime":"2026-02",
-  "UpdateType":"正式版",
-  "UpdateContent":""
+  "UpdateTime":"2026-05",
+  "UpdateType":"稳定版",
+  "UpdateContent":"更新聊天页左侧图标\n更新提示窗口\n更新反馈页面\n自定义背景添加位置和缩放调整\n修复信息栏在加载时会播放两次动画的问题\n修改信息栏\n修复自定义背景点击“恢复设置”时没有效果的问题\n修复用户在设置自定义背景后重新登录再进入设置页面 背景会偏移的问题\n修复”在线用户“页的版本解析问题，并删除了延迟查看\n更新“检查更新”"
 }
