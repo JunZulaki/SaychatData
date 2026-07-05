@@ -1,9 +1,9 @@
 {
-  "version": "v3.3.5",
-  "vernum": "3350",
+  "version": "v3.3.6",
+  "vernum": "3360",
   "url": "",
   "urlps": "",
-  "UpdateTime":"2026-06",
+  "UpdateTime":"2026-07",
   "UpdateType":"正式版",
-  "UpdateContent":"修复了群聊ID不隐藏的BUG\n加入群聊增加密码验证\n修复了个人主页部分不显示身份的BUG\n修改登山矿车部分UI的信息\n修复了在线用户信息无法正常同步的BUG\n所有用户的消息长度上限统一修改为200\n修复了个人主页中头像显示错误的BUG"
+  "UpdateContent":"主要部分\n- 修改登录页UI\n- 修改关于页面UI\n天气v2.1\n- 修改关于页面UI以及侧边工具栏\n- 删除本地天气图标，改为在线获取图标\n- 应要求，空气质量增加信息来源显示\n- 完全支持JsonWebToken身份验证\n- 修改地区选择按钮位置以及部分交互逻辑\n- 30天预报修改为三日天气同时预览\n- 现可以使用saychat内置认证API直接获取天气！\nSayMusic v2.1.1\n- 简单修改ui"
 }
