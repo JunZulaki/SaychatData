@@ -1,9 +1,9 @@
 {
-  "version": "v3.3.6",
-  "vernum": "3360",
+  "version": "v3.3.7",
+  "vernum": "3370",
   "url": "",
   "urlps": "",
   "UpdateTime":"2026-07",
   "UpdateType":"正式版",
-  "UpdateContent":"主要部分\n- 修改登录页UI\n- 修改关于页面UI\n天气v2.1\n- 修改关于页面UI以及侧边工具栏\n- 删除本地天气图标，改为在线获取图标\n- 应要求，空气质量增加信息来源显示\n- 完全支持JsonWebToken身份验证\n- 修改地区选择按钮位置以及部分交互逻辑\n- 30天预报修改为三日天气同时预览\n- 现可以使用saychat内置认证API直接获取天气！\nSayMusic v2.1.1\n- 简单修改ui"
+  "UpdateContent":"从2026-08-01开始此数据库停止更新"
 }
